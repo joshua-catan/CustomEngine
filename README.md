@@ -154,4 +154,4 @@ If you plan to make this project open source, consider adding a license file and
 
 ---
 
-Made by **mestStudios**.
+Made by **joshua**.
