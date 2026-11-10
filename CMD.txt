@@ -1,0 +1,5 @@
+--To save or to build the system
+cmake --build build
+
+--To run the system
+./build/MyEngine.exe
